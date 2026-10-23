@@ -1,4 +1,4 @@
-# Profit Predictor – Global Superstore Sales Analytics
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2726db21-d5e6-49e7-b2a5-7edc121980d2" /># Profit Predictor – Global Superstore Sales Analytics
 
 ## 1. Business Problem
 Businesses need to understand their sales and profit performance to make better decisions. Some products may generate high sales but low profit due to discounts, shipping costs, or other factors. This project analyzes Global Superstore data and uses machine learning to predict profit and support business decision-making.
@@ -173,7 +173,8 @@ Python and the packages listed in `requirements.txt`.
 Ensure the dataset and required model files are available at the paths expected by the application.
 
 ## 14. Streamlit Deployment
-**Live application:** TODO – Add your Streamlit Community Cloud URL after deployment.
+**Live application:** https://shahzain729.streamlit.app/
+
 
 ## 15. Application Screenshots
 
